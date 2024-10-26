@@ -1,9 +1,13 @@
 import java.io.*;
 import java.net.*;
-
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
+
+/* Title: Mattress Server
+   Authour: Somya Babar
+   Date: October 25th, 2024 
+*/
 
 public class MattressServer {
 
