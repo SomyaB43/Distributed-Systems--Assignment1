@@ -1,0 +1,4 @@
+You have selected TWIN. You have selected a TWIN mattress.
+You have selected TWIN. The total price is $150.0
+You have selected KING. The total price is $400.0
+You have selected QUEEN. The total price is $250.0
